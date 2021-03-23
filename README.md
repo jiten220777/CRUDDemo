@@ -1,8 +1,6 @@
 # CRUDDemo
 CRUDDemo In  C sharp windows
-Open Visual studio then click on New Project
-click on windows=>windows form application then click on ok
-add text, labels, buttons on your form
+This is a very basic demo application to perform create,read,update and delete opertions using Sql server as backend.
 
 
 
